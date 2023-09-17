@@ -1,0 +1,179 @@
+body{
+    font-family: Roboto,Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: #212121;
+    line-height: normal;
+    background-color: #FFF;
+}
+
+body h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.services h3{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.services p{
+    color:#757575;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+/*Soution section*/
+.solution {
+    background-color:#2F303A ;
+}
+.solution h1{
+    color: #FFF;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 136.364%;
+}
+.solution .request{
+    background-color: #2196F3;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 187.5%;
+}
+.request:hover{color:#188CE8;}
+.what-we-do img{
+    width: 370px;
+    height: 294px
+}
+
+/*Our team section*/
+.team{
+    background-color: #F5F4FA;
+}
+
+.team h3{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.team img{
+    width: 270px;
+    height: 260px;
+}
+
+.team p{
+    color:#757575;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;  
+}
+
+/*Logo navigation*/
+.logo{
+    color:#000;
+    font-family:Raleway, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+.logo .web {
+    color: #2196F3;  
+}
+.information .logo .studio{
+    color: #FFF;
+    text-decoration: none;
+}
+.logo .studio:hover{color: #2196F3;}
+
+ul{
+    list-style-type: none;
+}
+
+/* Links*/
+.links {
+    color:#757575;    
+    
+    text-decoration: none;
+}
+.links:hover{
+    color:#2196F3;
+}
+a{
+    text-decoration: none;
+}
+.main-navigation a:link,
+.main-navigation a:visited,
+.main-navigation a {
+    color:#212121;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.main-navigation a:hover{
+     color:#2196F3;
+}
+.main-navigation a:focus{color: #2196F3;}
+.current{
+    color: #2196F3;
+}
+
+/*Footer Section*/
+.information{
+    background-color:#2F303A ;    
+}  
+
+.contacts a{color:#FFFFFF99;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.information a:hover{
+    color:#2196F3;
+}
+.contacts{color:#FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/*Portofolio section*/
+.buttons{
+    background-color: #F5F4FA;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 162.5%;  
+}
+
+button:hover{
+    color: #FFF;
+    cursor: pointer;
+    background-color:#2196F3;}
+
+
+ button:active{
+    color: #FFF;
+    cursor: pointer;
+    background-color:#2196F3;
+}
+button:focus{
+    color:#FFF;
+    background-color: #2196F3;
+}
+
+.filter h3{
+    font-size: 18px;
+    font-weight: 700;
+    line-height:200%;
+}
+.filter span{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height:187.5%;
+}
+.filter img{
+    width: 370px;
+    height: 294px;
+}

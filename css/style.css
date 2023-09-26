@@ -45,7 +45,8 @@ body h2{
     font-weight: 700;
     line-height: 187.5%;
 }
-.request:hover{color:#188CE8;}
+.request:hover{
+background-color:#188CE8 ;}
 .images-container img{
     width: 370px;
     height: 294px

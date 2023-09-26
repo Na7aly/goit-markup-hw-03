@@ -151,6 +151,7 @@ ul{
 /* Links*/
 .links {
     color:#757575;    
+    
     text-decoration: none;
 }
 .links:hover{
@@ -166,6 +167,7 @@ a{
     font-size: 14px;
     font-weight: 500;
 }
+
 .main-navigation a:hover{
      color:#2196F3;
 }
@@ -173,6 +175,7 @@ a{
 .current{
     color: #2196F3;
 }
+.main-navigation a:active{color: #2196F3;}
 .main-navigation ul{
     display: flex;
     justify-content:space-between;
